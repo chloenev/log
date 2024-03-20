@@ -7,6 +7,8 @@ Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d
 
 Andie has looked into Experience Builder to use with our online data, but she didn't find much luck... I am going to explore Dashboards with our data and see what I find. 
 
+Creating a dashboard help - https://www.esri.com/arcgis-blog/products/ops-dashboard/mapping/create-first-arcgis-dashboards/ 
+
 Previously found [an example](https://www.arcgis.com/apps/dashboards/c1620b1dfaec4c5fa6897df5f74e1a90) from the City of Kenosha that used a dashboard to display development properties & within a pop-up window had a link to floor plan. I thought that could be useful to our project scope.
 
 ![Screenshot 2024-03-20 111207](https://github.com/chloenev/log/assets/146447252/7b7df0af-bb73-47d4-9c1f-53f906bebe54)
@@ -15,6 +17,16 @@ Likely not the best way to do so yet, but you can toggle layers on/off which hel
 
 ![image](https://github.com/chloenev/log/assets/146447252/2263c6d3-946c-41c1-ae65-0ee9b2a5e4f6)
 The pop-up window shows the floor, room group, name, and more. 
+
+I want to create an indicator based on what layers are visible (for example when I want to look at just floor 1). 
+Look at: 
+* https://community.esri.com/t5/arcgis-dashboards-questions/dashboard-indicators-with-multiple-layers/td-p/13913
+* https://community.esri.com/t5/arcgis-dashboards-questions/dashboard-indicator/td-p/1253478
+* Arcade expressions for data expressions - https://github.com/Esri/arcade-expressions/tree/master/dashboard_data
+
+Next steps:
+* Figure out data filtering
+
 
 ## Weeks 7 & 8 Checklist
 ### Starting my own ArcGIS Server on the Google Cloud Platform (GCP)
