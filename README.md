@@ -2,6 +2,17 @@
 
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
+## March 20
+### Exploring ArcGIS Web Apps - Dashboards
+
+Andie has looked into Experience Builder to use with our online data, but she didn't find much luck... I am going to explore Dashboards with our data and see what I find. 
+
+Previously found [an example](https://www.arcgis.com/apps/dashboards/c1620b1dfaec4c5fa6897df5f74e1a90) from the City of Kenosha that used a dashboard to display development properties & within a pop-up window had a link to floor plan. I thought that could be useful to our project scope.
+
+![image](https://github.com/chloenev/log/assets/146447252/0a642504-0d10-4db0-a121-b8e04fef5e76)
+![image](https://github.com/chloenev/log/assets/146447252/ec45f2d6-3054-42d2-aed3-9452775fa0d3)
+
+
 ## Weeks 7 & 8 Checklist
 ### Starting my own ArcGIS Server on the Google Cloud Platform (GCP)
 
