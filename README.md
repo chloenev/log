@@ -10,12 +10,11 @@ Andie has looked into Experience Builder to use with our online data, but she di
 Previously found [an example](https://www.arcgis.com/apps/dashboards/c1620b1dfaec4c5fa6897df5f74e1a90) from the City of Kenosha that used a dashboard to display development properties & within a pop-up window had a link to floor plan. I thought that could be useful to our project scope.
 
 ![Screenshot 2024-03-20 111207](https://github.com/chloenev/log/assets/146447252/7b7df0af-bb73-47d4-9c1f-53f906bebe54)
-![image](https://github.com/chloenev/log/assets/146447252/ec45f2d6-3054-42d2-aed3-9452775fa0d3)
 
-Likely not the best way to do so yet, but you can toggle layers on/off which helps view different floors! Here I was able to just view Floor 1 & Floor 1 detail:
+Likely not the best way to do so yet, but you can toggle layers on/off which helps view different floors! Here I was able to just view Floor 1 & Floor 1 detail using the Layers dropdown:
 
 ![image](https://github.com/chloenev/log/assets/146447252/2263c6d3-946c-41c1-ae65-0ee9b2a5e4f6)
-
+The pop-up window shows the floor, room group, name, and more. 
 
 ## Weeks 7 & 8 Checklist
 ### Starting my own ArcGIS Server on the Google Cloud Platform (GCP)
