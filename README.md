@@ -8,7 +8,8 @@ Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d
 This [YouTube video](https://www.youtube.com/watch?v=pGBpdZOBwko) led me to look at the [documentation on Selectors](https://doc.arcgis.com/en/dashboards/latest/create-and-share/selectors.htm). 
 
 Trying out different selectors to filter rooms displayed by department on each floor. This is a category selector which I think could be useful if there were attributes such as rooms by department, rooms designated to specific cleaners/cleaning shifts, rooms that contain XYZ. 
-![image](https://github.com/chloenev/log/assets/146447252/22b29121-def9-4cb2-ba89-ba56f754963b)
+![image](https://github.com/chloenev/log/assets/146447252/abb104e6-4b5e-42d8-9d0f-bdef3b06e139)
+* Have to toggle the other layers off or it gets too confusing
 
 I'm trying to add multiple filters so that the user can choose both the floor level (basement, 1-5) plus another selector (category, number, or date), but I can't seem to figure out how yet... 😠
 
