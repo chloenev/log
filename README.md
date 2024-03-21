@@ -3,7 +3,7 @@
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
 ## March 21
-### Dashboards cont. 
+### Exploring Dashboards cont. 
 
 This [YouTube video](https://www.youtube.com/watch?v=pGBpdZOBwko) led me to look at the [documentation on Selectors](https://doc.arcgis.com/en/dashboards/latest/create-and-share/selectors.htm). 
 
@@ -12,6 +12,10 @@ Trying out different selectors to filter rooms displayed by department on each f
 * Have to toggle the other layers off or it gets too confusing
 
 I'm trying to add multiple filters so that the user can choose both the floor level (basement, 1-5) plus another selector (category, number, or date), but I can't seem to figure out how yet... 😠 That way they don't have to manually toggle the layers on/off
+
+I'm also trying to see if I can set up easy filtering on a chart element. For example, a bar chart (called serial chart) of the level of employee (entry, junior, senior, etc.) per floor. But, I just want 1 chart on the dashboard that changes based on the selected/searched for layer... Not sure if possible - going to keep looking at documentation and YouTube videos.
+
+Unfortunately, I do not see any way we could do a navigational aspect using Dashboards, so ultamitely this may not be the best web solution anyway... 🙃
 
 
 
