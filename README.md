@@ -2,6 +2,14 @@
 
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
+## March 21
+### Dashboards cont. 
+
+Trying out different selectors to filter rooms displayed by department on each floor. This is a category selector which I think could be useful if there were attributes such as rooms by department, rooms designated to specific cleaners/cleaning shifts, rooms that contain XYZ.  
+![image](https://github.com/chloenev/log/assets/146447252/22b29121-def9-4cb2-ba89-ba56f754963b)
+
+
+
 ## March 20
 ### Exploring ArcGIS Web Apps - Dashboards
 
