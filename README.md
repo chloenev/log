@@ -11,7 +11,7 @@ Trying out different selectors to filter rooms displayed by department on each f
 ![image](https://github.com/chloenev/log/assets/146447252/abb104e6-4b5e-42d8-9d0f-bdef3b06e139)
 * Have to toggle the other layers off or it gets too confusing
 
-I'm trying to add multiple filters so that the user can choose both the floor level (basement, 1-5) plus another selector (category, number, or date), but I can't seem to figure out how yet... 😠
+I'm trying to add multiple filters so that the user can choose both the floor level (basement, 1-5) plus another selector (category, number, or date), but I can't seem to figure out how yet... 😠 That way they don't have to manually toggle the layers on/off
 
 
 
