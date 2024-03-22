@@ -19,8 +19,21 @@ I was confused at first how to interact with the data, but you need to press the
 
 ![image](https://github.com/chloenev/log/assets/146447252/d282514e-e539-42e0-a02f-08725f2ffe84)
 
+#### Analysis Widget 
+You can add an analysis widget inside EB! It uses credits (0.1 credits per input feature).
 
+I wanted to see if I could overlay multiple floor levels, so that I could have 1 layer that I could easily query through based on the attribute "Floor". 
 
+![image](https://github.com/chloenev/log/assets/146447252/031371bc-1bcd-49ef-bdbd-c64d24b10c8c)
+![image](https://github.com/chloenev/log/assets/146447252/f63e5ce1-39ef-42d3-adef-308a071b7663)
+
+Clicked around on a few more widgets and kept running into the problem:
+![image](https://github.com/chloenev/log/assets/146447252/2f5c1aab-e733-42aa-b681-5fb5ce7c66f9)
+I think we need ArcGIS Indoors extension for this which we don't have the licensing for... 🤔
+
+I definitely want to keep playing around with EB, it's much more fun than Dashboard! Visually I think it makes for a better product in our use case since we aren't really looking at a lot of stastical data to display, and it seems (so far) that it could be easier to handle multiple layers. 
+
+Will talk with my group soon and update Shawn on our findings! 
 
 
 ### Exploring Dashboards cont. 
