@@ -8,9 +8,11 @@ Got annoyed with Dashboards, so I'm going to explore what Experience Builder (EB
 
 Starting off by following this [video from GeoMarvel on YouTube.](https://www.youtube.com/watch?v=0HOkC20Zj3Y)
 
-I set up a map with the floor plan data & am adjusting to the interface (which seems really cool at first glance! More fun than Dashboard lol)
+I set up a map with the floor plan data & am adjusting to the interface (which seems really cool at first glance! More fun than Dashboard lol). 
 ![image](https://github.com/chloenev/log/assets/146447252/79176fd3-ac21-4d41-9a12-4916ea6803be)
 
+It's very easy to add data in, all you do is click and drag Map from the left sidebar (where all the other widgets are) and drag it to the middle frame. There are lots of templates to choose from, but to start I just did a blank page. Then, with the map selected, on the right hand side you can 'Select map' and ➕Add new data. 
+![image](https://github.com/chloenev/log/assets/146447252/51df778b-7263-44a5-97ed-fcc8bf9cd6ec)
 
 
 
