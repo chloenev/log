@@ -3,6 +3,19 @@
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
 ## March 21
+### Experience Builder
+Got annoyed with Dashboards, so I'm going to explore what Experience Builder (EB) can do. 
+
+Starting off by following this [video from GeoMarvel on YouTube.](https://www.youtube.com/watch?v=0HOkC20Zj3Y)
+
+I set up a map with the floor plan data & am adjusting to the interface (which seems really cool at first glance! More fun than Dashboard lol)
+![image](https://github.com/chloenev/log/assets/146447252/79176fd3-ac21-4d41-9a12-4916ea6803be)
+
+
+
+
+
+
 ### Exploring Dashboards cont. 
 
 This [YouTube video](https://www.youtube.com/watch?v=pGBpdZOBwko) led me to look at the [documentation on Selectors](https://doc.arcgis.com/en/dashboards/latest/create-and-share/selectors.htm). 
@@ -22,7 +35,7 @@ Unfortunately, I do not see any way we could do a navigational aspect using Dash
 ## March 20
 ### Exploring ArcGIS Web Apps - Dashboards
 
-Andie has looked into Experience Builder to use with our online data, but she didn't find much luck... I am going to explore Dashboards with our data and see what I find. 
+I am going to explore Dashboards with our data and see what I find. 
 
 Creating a dashboard help - https://www.esri.com/arcgis-blog/products/ops-dashboard/mapping/create-first-arcgis-dashboards/ 
 
