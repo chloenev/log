@@ -15,6 +15,10 @@ It's very easy to add data in, all you do is click and drag Map from the left si
 
 ![image](https://github.com/chloenev/log/assets/146447252/51df778b-7263-44a5-97ed-fcc8bf9cd6ec)
 
+I was confused at first how to interact with the data, but you need to press the LIVE VIEW button! You can also see how the app would look on different displays like a desktop, a tablet, or a phone! 
+
+![image](https://github.com/chloenev/log/assets/146447252/d282514e-e539-42e0-a02f-08725f2ffe84)
+
 
 
 
