@@ -2,6 +2,20 @@
 
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
+## March 28
+### Where was I... 
+Been a while, but we #back! At the last meeting Shawn suggested we look into small area data, rather than limiting ourselves to the previous floor plan data which was a nuisance because really the best solution is ArcGIS Indoors in the online space 🙃
+
+#### Newmarket Park Data 
+Using this park data we are exploring tools within Experience Builder for small areas. In particular I want to try out dDicrections because I wanted to used it with the indoor data for routing, but it wasn't possible because the data was not floor aware (something you set up in Indoors)!
+
+Just getting started, I added a new page to my EB file, added the park data to a map and clicked to add the Directions widget:
+
+![image](https://github.com/chloenev/log/assets/146447252/52292775-86cc-4c4c-a6e0-53e1ede40058)
+
+Just 
+
+
 ## March 21
 ### Experience Builder
 Got annoyed with Dashboards, so I'm going to explore what Experience Builder (EB) can do. 
