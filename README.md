@@ -11,9 +11,16 @@ Using this park data we are exploring tools within Experience Builder for small 
 
 Just getting started, I added a new page to my EB file, added the park data to a map and clicked to add the Directions widget:
 
-![image](https://github.com/chloenev/log/assets/146447252/52292775-86cc-4c4c-a6e0-53e1ede40058)
+![image](https://github.com/chloenev/log/assets/146447252/afa42dcd-b78f-419b-9c76-68388bab8059)
 
-Just 
+On the right sidebar you need to select your map source (you can pick any from your EB file), the route settings (by default there is the ArcGIS route services URL), and then locator source (again the default ArcGIS default 'World Geocoding Service' was chosen). 
+
+THIS IS SUPER EASY AND VERY COOL! Just trying out using the map to click on various parks & get walking or driving times, and distances! Can add multiple stops too. 
+
+https://github.com/chloenev/log/assets/146447252/85d6c452-1e08-49c4-a9a3-2a7a9a46c445
+
+
+
 
 
 ## March 21
