@@ -32,11 +32,12 @@ I thought this was a cool widget! You can set a
 
 
 Steps:
+
 ![image](https://github.com/chloenev/log/assets/146447252/55eea3d4-066c-4487-914e-a73700aefb49)
 
 ![image](https://github.com/chloenev/log/assets/146447252/93f2c2dd-9a6a-4bc9-b8f4-b71f8824bd5d)
 
-
+You can set 3 different types, but I chose proximity because I watched to catch all parks in a 500m radius in this example!
 
 ## March 21
 ### Experience Builder
