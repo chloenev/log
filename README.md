@@ -19,7 +19,22 @@ THIS IS SUPER EASY AND VERY COOL! Just trying out using the map to click on vari
 
 https://github.com/chloenev/log/assets/146447252/85d6c452-1e08-49c4-a9a3-2a7a9a46c445
 
+Trying out some more widgets:
+* Coordinates - just shows the coordinates on a point on the map... You can copy the coordinates, so I tried to input them in the Directions widget, but it didn't accept it no matter if I added in the directions (N/E) or changed the wording.
+* Tried out the Coordinate Convestion widget (bottom left) that I copy/pasted the coords from Coordinate wiedget (bottom right), but it's clunky 
+* ![image](https://github.com/chloenev/log/assets/146447252/84d8e890-d958-43ce-bfe1-5386cda3007c)
+* At first because I had only clicked on parks from my feature layer and no where else on the map (lol) I thought Directions could only provide directions between 2 features. In reality, you can click anywhere on the map, so neither of the coordinates features are necessary/helpful ✖️
+* Near Me - I like this one! 
 
+#### Near Me
+I thought this was a cool widget! You can set a
+![image](https://github.com/chloenev/log/assets/146447252/3708a809-8d47-4e1a-9985-c1fda100666a)
+
+
+Steps:
+![image](https://github.com/chloenev/log/assets/146447252/55eea3d4-066c-4487-914e-a73700aefb49)
+
+![image](https://github.com/chloenev/log/assets/146447252/93f2c2dd-9a6a-4bc9-b8f4-b71f8824bd5d)
 
 
 
