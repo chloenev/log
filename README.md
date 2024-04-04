@@ -2,6 +2,19 @@
 
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
+## April 4
+### Goals for today
+I have 2 goals for today:
+* Finish a polished version of my EB solution that can be placed on our website!
+* Write out some of my process for the Methodology page on the site too
+* Edit our problem statement as it currently is still focused solely on the indoor data & we've added small area data to the solution
+
+### Website 
+
+
+### Back to EB
+
+
 ## March 28
 ### Where was I... 
 Been a while, but we #back! At the last meeting Shawn suggested we look into small area data, rather than limiting ourselves to the previous floor plan data which was a nuisance because really the best solution is ArcGIS Indoors in the online space 🙃
