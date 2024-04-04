@@ -12,6 +12,13 @@ I have 3 goals for today:
 ### Website 
 Link to our webpage: https://georajesh.github.io/geom99-project/demo/index.html 
 
+#### Today's Workflow
+* Only homepage exists currently (index.html), so adding both a methodology.html & solution.html page to the geom99-project github repository!
+* Kind of confused reading the html code for the index page??? ➡️ nevermind, Rajesh made a seperate link with geom99-project/demo/index.html whereas Tali's was just geom99-project/index.html
+* Going to use Rajesh's version and add the methodogy page!
+* 😕 --> me realizing I am extremely rusty with my html and this is taking so long! 
+* 
+
 ### Back to EB
 
 
