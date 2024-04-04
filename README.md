@@ -10,7 +10,7 @@ I have 2 goals for today:
 * Edit our problem statement as it currently is still focused solely on the indoor data & we've added small area data to the solution
 
 ### Website 
-
+Link to our webpage: https://georajesh.github.io/geom99-project/demo/index.html 
 
 ### Back to EB
 
@@ -149,4 +149,3 @@ But had to troubleshoot some issues...
 Eventually I was able to connect and access the data layers! 😄
 ![Screenshot 2024-03-09 201229](https://github.com/chloenev/log/assets/146447252/bae99354-6a45-4f78-b39e-ea788362f036)
 
-* 
