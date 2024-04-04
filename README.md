@@ -3,8 +3,8 @@
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
 ## April 4
-### Goals for today
-I have 2 goals for today:
+### To-Do List
+I have 3 goals for today:
 * Finish a polished version of my EB solution that can be placed on our website!
 * Write out some of my process for the Methodology page on the site too
 * Edit our problem statement as it currently is still focused solely on the indoor data & we've added small area data to the solution
