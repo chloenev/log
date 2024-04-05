@@ -15,9 +15,9 @@ Link to our webpage: https://georajesh.github.io/geom99-project/demo/index.html
 #### Today's Workflow
 * Only homepage exists currently (index.html), so adding both a methodology.html & solution.html page to the geom99-project github repository!
 * Kind of confused reading the html code for the index page??? ➡️ nevermind, Rajesh made a seperate link with geom99-project/demo/index.html whereas Tali's was just geom99-project/index.html
-* Going to use Rajesh's version and add the methodogy page!
+* Going to use Rajesh's version
 * 😕 --> me realizing I am extremely rusty with my html and this is taking so long! 
-* 
+* That took far too long, but I added the 2 pages to the repository and am working on rearranging and adding text - might move over to focus on the EB now though because that is more important for tomorrow 
 
 ### Back to EB
 
