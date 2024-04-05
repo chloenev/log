@@ -10,7 +10,9 @@ I have 3 goals for today:
 * Edit our problem statement as it currently is still focused solely on the indoor data & we've added small area data to the solution
 
 ### Website 
-Link to our webpage: https://georajesh.github.io/geom99-project/demo/index.html 
+Link to our webpages (we have 2 versions):
+* Rajesh: https://georajesh.github.io/geom99-project/demo/index.html
+* Tali: https://georajesh.github.io/geom99-project/index.html
 
 #### Today's Workflow
 * Only homepage exists currently (index.html), so adding both a methodology.html & solution.html page to the geom99-project github repository!
