@@ -35,6 +35,10 @@ Search is weird because it doesn't highlight the selected park... it just hides 
 
 After some tinkering around (I feel like some things are not intuitive to ME lol), I found that adding an action to the Search widget was a great way to do what I wanted! You can add triggers for record selection changes, records created, or for my purpose, data filtering changes! I chose the "Zoom to" option that zooms right in to the selected park! 🌳🏞️ It sounds silly that I'm happy I got this to work because it is very simple, but sometimes with the AGOL stuff I feel like it takes a lot of clicking around/just trying things rather than fully understanding things for me to get them to work
 
+Working on this page in EB took longer than I was hoping for, especially in terms of how much is actually on the page - it features 1 widget and 1 layer of data. I explored several of the other widgets over the last couple weeks, but for this specific application many of them just don't make sense. Additionally, I feel that there are many limitations to using data that I did not author. There is some attribute data I would have liked to have to make navigation and searching even better. 
+
+I FORGOT TO ADD BACK IN THE NEAR ME WIDGET!!! DO IN THE MORNING!!!
+
 ## March 28
 ### Where was I... 
 Been a while, but we #back! At the last meeting Shawn suggested we look into small area data, rather than limiting ourselves to the previous floor plan data which was a nuisance because really the best solution is ArcGIS Indoors in the online space 🙃
