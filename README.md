@@ -22,7 +22,14 @@ Link to our webpages (we have 2 versions):
 * That took far too long, but I added the 2 pages to the repository and am working on rearranging and adding text - might move over to focus on the EB now though because that is more important for tomorrow 
 
 ### Back to EB
+![image](https://github.com/chloenev/log/assets/146447252/db3d26f5-b25e-4ad9-9728-6034ea014474)
 
+Adding on a search bar with specific search options - only allowing user to search by park name or category (includes park, woodlot, open space, town maintenance area)
+
+Search is weird because it doesn't highlight the selected park... it just hides the rest? Which is difficult because the basemap has very similar colours to the feature layer symbology. So, I can either:
+* Change the symbology (not preferred)
+* Change the basemap (not against this)
+* Find a way for the search to highlight the selected park - like how it usually does in the bright turquoise colour! (going to keep trying to do this as the first option)
 
 ## March 28
 ### Where was I... 
