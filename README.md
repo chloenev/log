@@ -31,6 +31,10 @@ Search is weird because it doesn't highlight the selected park... it just hides 
 * Change the basemap (not against this)
 * Find a way for the search to highlight the selected park - like how it usually does in the bright turquoise colour! (going to keep trying to do this as the first option)
 
+![image](https://github.com/chloenev/log/assets/146447252/deb95e18-7db0-4fcb-a20b-0114e9a51d3f)
+
+After some tinkering around (I feel like some things are not intuitive to ME lol), I found that adding an action to the Search widget was a great way to do what I wanted! You can add triggers for record selection changes, records created, or for my purpose, data filtering changes! I chose the "Zoom to" option that zooms right in to the selected park! 🌳🏞️ It sounds silly that I'm happy I got this to work because it is very simple, but sometimes with the AGOL stuff I feel like it takes a lot of clicking around/just trying things rather than fully understanding things for me to get them to work
+
 ## March 28
 ### Where was I... 
 Been a while, but we #back! At the last meeting Shawn suggested we look into small area data, rather than limiting ourselves to the previous floor plan data which was a nuisance because really the best solution is ArcGIS Indoors in the online space 🙃
