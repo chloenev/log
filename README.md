@@ -17,6 +17,9 @@ Want to go from this:
 To something like this (from previous GEOM101 assignment):
 ![image](https://github.com/chloenev/log/assets/146447252/15b33cb2-2c7f-496b-90fd-9cd8bd6d2709)
 
+In progress:
+![image](https://github.com/chloenev/log/assets/146447252/449af323-3956-49b7-b24d-d0cba037e3d0)
+
 
 
 
