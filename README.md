@@ -2,6 +2,24 @@
 
 Created alongside my [Activity Timesheet](https://docs.google.com/spreadsheets/d/1l5CtPyyME90kUm4xr6jZesHhcpF23J1mbdviPXfV1iE/edit?usp=sharing). 
 
+## April 10
+### To-Do List
+For the website I need to:
+* Edit the problem statement - got OK from group
+* Make & add a GIF of my solution
+* Complete write-up about my routing EB
+* Make changes to header
+
+#### Header
+Want to go from this:
+![image](https://github.com/chloenev/log/assets/146447252/cd0fa8bb-b577-4a35-86f7-671ef89fefed)
+
+To something like this (from previous GEOM101 assignment):
+![image](https://github.com/chloenev/log/assets/146447252/15b33cb2-2c7f-496b-90fd-9cd8bd6d2709)
+
+
+
+
 ## April 4
 ### To-Do List
 I have 3 goals for today:
